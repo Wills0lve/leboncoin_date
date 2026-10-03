@@ -2,6 +2,8 @@
 
 Userscript pour **Tampermonkey, Violentmonkey et Greasemonkey** permettant de réafficher la **date et l'heure de première publication des annonces Leboncoin**.
 
+ATTENTION: Script entièrement vibecodé par IA. Le code n'a pas été relu par un humain.
+
 Leboncoin n'affichant plus systématiquement cette information dans son interface, le script récupère le champ `first_publication_date` lorsqu'il est présent dans les données chargées par le site.
 
 ## Fonctionnalités
